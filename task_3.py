@@ -1,6 +1,6 @@
 def is_prime(n):
     number = True
-    if n == 1:
+    if n <2:
         number = False
         return number
     else:
